@@ -8,3 +8,7 @@
 
 ![Low Poly Neutral](https://raw.githubusercontent.com/Arnwaltur/low-poly-eos-inspired/main/screenshots/Screenshot_Low_Poly_Neutral.png)
 [**Download 4K wallpaper**](https://raw.githubusercontent.com/Arnwaltur/low-poly-eos-inspired/main/Low%20Poly%20Neutral.jpg)
+
+# License
+
+Public domain
